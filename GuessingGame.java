@@ -1,8 +1,3 @@
-/*
-THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
-CODE WRITTEN BY OTHER STUDENTS. Saad Akhtar
-*/
-
 //I have included some comments in the following code to show what I'm doing (or think I'm doing) in each method.
 //From my trials, the computer usually guesses my secret number within 11 to 13 tries.
 //I haven't seen my program take more than 15 tries in the 20 trials I did.
@@ -16,8 +11,6 @@ import javax.swing.JOptionPane;
 
 public class GuessingGame {
 
-	// fill in code here
-	// define data members
 	/*The 3 variables below are used in more than one method, so they are initialized here. The numbers variable is an integer ArrayList that is altered according to the number
 	  of matching digits. The computerGuess variable is obviously the computer's random guess. The numGuesses variable is the number of guesses made by the computer.
 	*/
@@ -109,11 +102,7 @@ public class GuessingGame {
 			}
 		}		
 	}
-	
-	// fill in code here (optional)
-	// feel free to add more methods as needed
-	
-	// you shouldn't need to change the main function
+
 	public static void main(String[] args) {
 
 		GuessingGame gamer = new GuessingGame( );
