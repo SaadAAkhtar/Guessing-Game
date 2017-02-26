@@ -1,3 +1,9 @@
+/*
+THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
+A TUTOR OR CODE WRITTEN BY OTHER STUDENTS.
+Saad Akhtar
+*/
+
 //I have included some comments in the following code to show what I'm doing (or think I'm doing) in each method.
 //From my trials, the computer usually guesses my secret number within 11 to 13 tries.
 //I haven't seen my program take more than 15 tries in the 20 trials I did.
